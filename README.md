@@ -27,4 +27,4 @@ A simple weather app built with React that fetches weather data from an external
 
    ```bash
    git clone https://github.com/amal2000-cse/weatherapp.git
-   cd weather-app-react
+   cd weatherapp
